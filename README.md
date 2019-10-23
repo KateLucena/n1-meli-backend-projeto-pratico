@@ -1,6 +1,6 @@
 # **_Projeto prático Reprograma_**
 
-## Desafio - criar uma API RESTful.
+## Desafio de criar uma API RESTful.
 
 **Requisitos Obrigatórios**
 
@@ -8,7 +8,8 @@ Desenvolver uma API a fim de disponibilizar uma lista de tarefas a ser compartil
 
 1. Descrição da tarefa
 2. Data de Inclusão 
-3. Check para verificar se o item já foi concluído
+3. Tarefa concluida
+4. Nome do colaborador responsável pela tarefa
 
 **Rotas Obrigatórias realizadas**
 
@@ -24,9 +25,11 @@ Desenvolver uma API a fim de disponibilizar uma lista de tarefas a ser compartil
  - JavaScript
  - Node.js
  - Express.js
+ - NPM
  - Nodemon
  - Postman
  - Visual Studio Code
+ 
 
 
 
