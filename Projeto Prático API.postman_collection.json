@@ -1,0 +1,125 @@
+{
+	"info": {
+		"_postman_id": "4025760c-a4be-42c5-a635-29118fb0d015",
+		"name": "Projeto Prático API",
+		"description": "Coleção com todos os gets solicitados no projeto prático turma backend Reprograma.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Tarefas.home",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "3ce412b2-c273-4418-958a-88d823afb910",
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				},
+				"description": "Pagina inicial da API"
+			},
+			"response": []
+		},
+		{
+			"name": "Tarefas.listarTodos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/tarefas",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"tarefas"
+					]
+				},
+				"description": "Retorno da lista de tarefas"
+			},
+			"response": []
+		},
+		{
+			"name": "Tarefas.listarPorID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/tarefas/1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"tarefas",
+						"1"
+					]
+				},
+				"description": "Retornando somente a tarefa encontrada por id."
+			},
+			"response": []
+		},
+		{
+			"name": "Tarefas.listarConcluidos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/tarefas/concluido/filtrar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"tarefas",
+						"concluido",
+						"filtrar"
+					]
+				},
+				"description": "Retornando somnente itens concluídos."
+			},
+			"response": []
+		},
+		{
+			"name": "Tarefas.buscarPorNome",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/tarefas/Kate/buscar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"tarefas",
+						"Kate",
+						"buscar"
+					]
+				},
+				"description": "Retornando tarefas somente de um determinado colaborador."
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

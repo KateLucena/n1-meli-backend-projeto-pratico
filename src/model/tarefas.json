@@ -3,20 +3,72 @@
         "id": 1,
         "descricao": "Tarefa 1",
         "dataInclusao": "15/03/2019",
-        "concluido": "false"
+        "concluido": "false",
+        "nomeColaborador": "Kate"
         
     },
     {
         "id": 2,
         "descricao": "Tarefa 2",
         "dataInclusao": "20/08/2019",
-        "concluido": "true"
+        "concluido": "true",
+        "nomeColaborador": "Sidney"
     },
     {
         "id": 3,
         "descricao": "Tarefa 3",
         "dataInclusao": "21/10/2019",
-        "concluido": "true"
+        "concluido": "false",
+        "nomeColaborador": "Neide"
+    },
+    {
+        "id": 4,
+        "descricao": "Tarefa 4",
+        "dataInclusao": "22/10/2019",
+        "concluido": "true",
+        "nomeColaborador": "Helena"
+    },
+    {
+        "id": 5,
+        "descricao": "Tarefa 5",
+        "dataInclusao": "02/05/2019",
+        "concluido": "false",
+        "nomeColaborador": "Mayara"
+    },
+    {
+        "id": 6,
+        "descricao": "Tarefa 6",
+        "dataInclusao": "30/09/2019",
+        "concluido": "true",
+        "nomeColaborador": "Luma"
+    },
+    {
+        "id": 7,
+        "descricao": "Tarefa 7",
+        "dataInclusao": "15/04/2019",
+        "concluido": "false",
+        "nomeColaborador": "Natalya"
+    },
+    {
+        "id": 8,
+        "descricao": "Tarefa 8",
+        "dataInclusao": "16/07/2019",
+        "concluido": "true",
+        "nomeColaborador": "Fani"
+    },
+    {
+        "id": 9,
+        "descricao": "Tarefa 9",
+        "dataInclusao": "28/01/2019",
+        "concluido": "false",
+        "nomeColaborador": "Luciana"
+    },
+    {
+        "id": 10,
+        "descricao": "Tarefa 10",
+        "dataInclusao": "01/10/2019",
+        "concluido": "true",
+        "nomeColaborador": "Camila"
     }
 ]
  
