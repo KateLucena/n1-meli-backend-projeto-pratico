@@ -5,7 +5,7 @@
 
 **Requisitos Obrigatórios**
 
-### Desenvolver uma API a fim de disponibilizar uma lista de tarefas a ser compartilhada entre os funcionários de uma empresa. Os dados da tarefa que deverão aparecer, são:
+Desenvolver uma API a fim de disponibilizar uma lista de tarefas a ser compartilhada entre os funcionários de uma empresa. Os dados da tarefa que deverão aparecer, são:
 
 1. Descrição da tarefa
 2. Data de Inclusão 
