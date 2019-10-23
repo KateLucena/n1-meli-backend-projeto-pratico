@@ -1,7 +1,6 @@
-# n1-meli-backend-projeto-pratico
-## **_Projeto prático Reprograma_**
+# **_Projeto prático Reprograma_**
 
-### Desafio para criar uma API RESTful.
+## Desafio para criar uma API RESTful.
 
 **Requisitos Obrigatórios**
 
