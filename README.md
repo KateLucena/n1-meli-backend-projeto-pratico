@@ -1,6 +1,6 @@
 # **_Projeto prático Reprograma_**
 
-## Desafio para criar uma API RESTful.
+## Desafio - criar uma API RESTful.
 
 **Requisitos Obrigatórios**
 
