@@ -1,4 +1,4 @@
-![reprograma](https://user-images.githubusercontent.com/53880309/67444197-66567e00-f5de-11e9-87cf-fcaa84803374.png)
+
 # **_Projeto prático Reprograma_**
 
 ## Desafio de criar uma API RESTful.
